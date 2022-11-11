@@ -1,0 +1,2 @@
+# alarmApp
+With the help of the app Alder Alarm, users may set alarms and reminders down to the minute. Users can use many devices at once to access the application, and they will all concurrently receive alarm alerts. Uses an indexed MongoDB database to provide lightning-fast query response times. Adler Alarm makes it easy for a user to keep track of all the alarms from the interactive user interface and users can also delete alarms as per necessity.
